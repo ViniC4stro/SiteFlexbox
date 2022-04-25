@@ -1,3 +1,3 @@
 ## Site desenvolvido com Flexbox
 
-<img src="assets/images/Site-com-Flexbox.PNG" alt="site">
+<img src="assets/images/Site-com-Flexbox.png" alt="site">
